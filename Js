@@ -1,0 +1,5 @@
+<div class="card">
+ <p class="ellipsis"> 
+	This is a very long sentence so showing it when the space end.
+ </p>        
+<div>
